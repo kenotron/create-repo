@@ -1,6 +1,6 @@
 {
   "name": "create-ws",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "git@github.com:kenotron/create-ws.git",
   "author": "Ken Chau <ken@gizzar.com>",
   "license": "MIT",
@@ -14,8 +14,8 @@
     "@rollup/plugin-commonjs": "^19.0.0",
     "beachball": "^2.6.2"
   },
-  "main": "dist/create-repo.js",
+  "main": "dist/create-ws.js",
   "bin": {
-    "create-repo": "bin/create-repo.js"
+    "create-ws": "bin/create-ws.js"
   }
 }
