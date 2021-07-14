@@ -1,7 +1,7 @@
 {
-  "name": "create-repo",
+  "name": "create-ws",
   "version": "1.0.0",
-  "repository": "git@github.com:kenotron/create-repo.git",
+  "repository": "git@github.com:kenotron/create-ws.git",
   "author": "Ken Chau <ken@gizzar.com>",
   "license": "MIT",
   "scripts": {
